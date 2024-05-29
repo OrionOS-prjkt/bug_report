@@ -16,7 +16,7 @@ export const Header = () => {
                 <div className="mt-8 flex justify-center space-x-3">
                     {/* req add bug */}
                     <div className="mt-2">
-                        <AddButton href="https://t.me/sirNewbies">Report bug</AddButton>
+                        <AddButton href={SITE_CONFIG.FORM}>Report bug</AddButton>
                     </div>
                     {/* req remove bug */}
                     <div className="mt-2">
