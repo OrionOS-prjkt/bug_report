@@ -14,7 +14,7 @@ export const reports : Reports = [
     },
     {
         title: "Bug when rotating phone",
-        slug: "bug-when-rotatingg",
+        slug: "bug-when-rotating",
         device: "tissot",
         detail: "this is dump data, so just test string not a real bug"
     },
