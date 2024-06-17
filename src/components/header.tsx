@@ -20,7 +20,7 @@ export const Header = () => {
                     </div>
                     {/* req remove bug */}
                     <div className="mt-2">
-                        <DeleteButton href="https://t.me/sirNewbies">Delete bug</DeleteButton>
+                        <DeleteButton href="https://t.me/romiyusna">Delete bug</DeleteButton>
                     </div>
                 </div>
             </div>
